@@ -1,7 +1,7 @@
 # react-native-examples
 
 Apps are tested on xcode simulator for ios and genymotion for android.To run the code locally clone the repo run npm install.
-To run on ios Open *.ios.js in xcode run. For android you will need to setup genymotion and run *.android.js 
+To run on ios Open index.ios.js in xcode run. For android you will need to setup genymotion and run index.android.js 
 
 ## Authentication App
 
