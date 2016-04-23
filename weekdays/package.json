@@ -1,0 +1,12 @@
+{
+  "name": "weekdays",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "moment": "^2.11.0",
+    "react-native": "^0.14.2"
+  }
+}
